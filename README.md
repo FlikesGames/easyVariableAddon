@@ -13,6 +13,6 @@ The picture is for illustrative purposes only, but you get the idea.
 At the image 2 you can see how it will be looks after you are use this Addon. Only one line at that it.
 ![image](https://github.com/FlikesGames/easyVariableAddon/assets/89046066/584e8594-f158-453f-bb30-ae50e0be308d)
 
-Or you can yeasy compare variable value
+Or you can easy compare variable value
 ![image](https://github.com/FlikesGames/easyVariableAddon/assets/89046066/a3fd82e7-cab4-4800-95b1-888805dbed27)
 
